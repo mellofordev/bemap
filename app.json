@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sreedhar_k.s.bemapapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
